@@ -1,9 +1,7 @@
 VizsgaNaptár – ZH- és vizsganyilvántartó
 
-Hallgató
-
 Név: Szabó Bálint Gábor
-eptun-kód: DMA0SH
+Neptun-kód: DMA0SH
 
 Feladat leírása
 
